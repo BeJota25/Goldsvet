@@ -1,0 +1,15 @@
+{
+
+"port":"12087/arcade",
+
+"host":"leviatan.bet",
+"prefix":"https://",
+
+"host_ws":"leviatan.bet",
+"prefix_ws":"wss://",
+
+"ssl":true,
+
+"timezone":"Europe/Berlin"
+
+}

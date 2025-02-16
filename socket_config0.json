@@ -1,0 +1,13 @@
+{
+
+"port":"12087/ka_fish",
+
+"host":"leviatan.bet",
+"prefix":"https://",
+
+"host_ws":"leviatan.bet",
+"prefix_ws":"wss://",
+
+"ssl":true
+
+}
